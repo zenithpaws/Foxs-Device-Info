@@ -1,0 +1,8 @@
+{
+  "name": "Fox's Device Info",
+  "description": "Developed by Ryzen Fox. A comprehensive device monitoring and management application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
